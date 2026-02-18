@@ -23,7 +23,7 @@ The project demonstrates routing, state management, and API integration.
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### Install dependencies:
 npm install
