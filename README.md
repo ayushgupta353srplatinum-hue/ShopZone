@@ -38,7 +38,7 @@ npm run dev
 
 3 Handling external APIs and dynamic data rendering
 # Demo Link
-
+shop-zone-amez.vercel.app
 # YouTube Link
 
 
