@@ -40,5 +40,4 @@ npm run dev
 # Demo Link
 https://shop-zone-amez.vercel.app/
 # YouTube Link
-
-
+https://youtu.be/Rb2N_QVtoL4?si=evOwCrNj4zLuUfZ_
